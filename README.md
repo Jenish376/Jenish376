@@ -8,7 +8,7 @@
 
 <!-- About -->
 ---
-- 🌱 I’m currently learning *Data Structures and Algorithms.*
+- 🌱 I’m currently mastering *Data Structures and Algorithms.*
 
 - 🚀 I’m currently doing *Competitive Programming.* 
 
